@@ -1,4 +1,6 @@
-
+https://play.google.com/store/apps/details?id=com.android.chrome&referrer=utm_source%3Dhelp-center%26utm_medium%3Dhc-answer%26utm_campaign%3Dhelp-center-mg
+https://support.google.com/chrome/answer/95346?hl=en&ref_topic=7439538
+https://support.google.com/accounts/answer/27441
 [https://superuser.com/questions/33548/starting-google-chrome-in-application-mode]
 
 # Template for deploying k3s backed by Flux
