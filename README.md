@@ -1,3 +1,6 @@
+
+[https://superuser.com/questions/33548/starting-google-chrome-in-application-mode]
+
 # Template for deploying k3s backed by Flux
 (test)[https://stackoverflow.com/questions/49197949/is-it-possible-to-use-google-sign-in-without-javascript]
 (codepen)[https://codepen.io/adamrifai/full/LmZYYx]
